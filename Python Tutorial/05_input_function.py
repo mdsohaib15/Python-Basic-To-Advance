@@ -1,0 +1,12 @@
+a = input("Enter your name:")
+print("My name is ",a)
+b = input("Enter a number :")
+print(b) 
+b = int(b) # Converting str to int (if possible)
+print(type(a)) 
+print(type(b))
+
+x = input("Enter your first number:")
+y = input("Enter your second number:")
+print(x + y)
+print(int(x) +int(y))
