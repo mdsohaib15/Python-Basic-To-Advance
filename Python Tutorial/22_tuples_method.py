@@ -1,5 +1,6 @@
 # count() Method
-# The count() method of Tuple returns the number of times the given element appears in the tuple.tuple = (0,3,2,3,4,5,3,7,3,3)
+# The count() method of Tuple returns the number of times the given element appears in the tuple.
+tuple = (0,3,2,3,4,5,3,7,3,3)
 tup1 = tuple.count(3)
 print("count of 3 in tuple is",tup1)
 
