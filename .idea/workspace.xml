@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e864de0-8cb7-4cb8-88b5-0bfc09ffcca3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/00_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_first_learning_program.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Comment_Escape_Sequence_Print_statement,.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_variable_and_data_types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_typecasting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_input_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.1_strings_slicing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_string_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_if_else_conditional.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_elif.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_nested_if_statements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_for_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_while_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_match_casing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_break_and_continue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_functios_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_function_argument.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_lists_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_lists_methods_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_tuples_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_operations_on_tuples_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_tuples_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_f-strings_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_docstring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_sets_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/27_set_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_joining_sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/29_dictionaries_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30_dictionaries_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/31_for_loop_with_else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/32_Exception_Handling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/33_finally_keyword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34_raise_custom_errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/35_short_hand_if_else_statements.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36_enumerate_function.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/38_how_import_works_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/39_dir_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/39_if__name__==''__main__''_in_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40_os_module_in_python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_local_vs_global_variable.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/42_file_handling_in_python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/43_readline(),writelines().py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/44_seek(),tell()_and_other_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/45_lamba_function.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/46_map,filter_and_reduce_in_python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/47_'is'_vs_'=='_in_python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/48_Introduction_to_OOPs.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/49_classes_and_object.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50_constructor.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/51_decorators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/52_getters_and_setters.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/53_inheritance.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/54_access_modifiers.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/55_static_methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/56_instance_variable_vs_class_variables.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/57_class_methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/58_class_methods_as_Alternative_constructors.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/59_dir,__dict__and_help_method.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60_super_keyword.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/61_magic,dunder.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/62_method_overriding.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/63_operator_overloading.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/64_single_inheritance.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/65_multiple_inheritance.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/66_multilevel_inheritance.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/67_hirarchical_inheritance.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/68_hybrid_inheritance.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/69_polymorphism.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70_abstraction.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/good.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greetings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/import_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/line.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newfile2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seek.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/truncate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/truncate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/types_of_inheritance.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2kKIB5goVH2oghlheRaXwAKY1gE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Python"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e864de0-8cb7-4cb8-88b5-0bfc09ffcca3" name="Changes" comment="" />
+      <created>1723025705221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723025705221</updated>
+    </task>
+    <servers />
+  </component>
+</project>

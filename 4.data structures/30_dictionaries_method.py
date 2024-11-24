@@ -42,3 +42,15 @@ print(info)
 
 empty = {}
 print("\nThe output of empty is ",empty)
+
+# 6-get method:
+# if the given is not exist in dictionary it set to default value
+car = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+x = car.get("price", 15000)
+
+print(x)
